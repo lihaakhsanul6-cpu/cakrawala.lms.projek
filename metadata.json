@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Cakrawala LMS",
+  "description": "LMS modern terpadu dengan koreksi AI cerdas, Safe Exam Browser, dan manajemen nilai komprehensif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
